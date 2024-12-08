@@ -1,0 +1,112 @@
+{"foodCourt":
+[
+    {
+        "restaurantName": "Chipotle Mexican Grill",
+        "restaurantDescription": "Fast-food chain offering Mexican fare, including design-your-own burritos, tacos & bowls. Located on the 1st floor of GMU Johnson Center building.",
+        "operationHours": "MON.-SUN. 10AM-10PM",
+        "phoneNumber": "(571) 459-2152",
+        "imageName": "chipotle.webp",
+        "fcWebsite": "https://www.chipotle.com",
+        "restaurantAddress": "1st Floor, Johnson Center, GMU"
+    },
+    {
+        "restaurantName": "Blaze Pizza",
+        "restaurantDescription": "Hip counter-serve pizzeria dishing up crispy, thin-crust pies made with creative toppings & sauces. Located on the 1st floor of GMU Johnson Center building.",
+        "operationHours": "MON.-THURS. 11AM-7PM; FRI 11AM-5PM",
+        "phoneNumber": "(703) 993-9068",
+        "imageName": "blazePizza.jpeg",
+        "fcWebsite": "https://www.blazepizza.com",
+        "restaurantAddress": "1st Floor, Johnson Center, GMU"
+    },
+    {
+        "restaurantName": "The Halal Guys",
+        "restaurantDescription": "Counter-serve chain whipping up a variety of Middle Eastern favorites, including gyros and falafel. Located on the 1st floor of GMU Johnson Center building.",
+        "operationHours": "MON.-FRI. 11AM-4PM",
+        "phoneNumber": "(703) 825-7370",
+        "imageName": "halalGuys.png",
+        "fcWebsite": "https://www.thehalalguys.com",
+        "restaurantAddress": "1st Floor, Johnson Center, GMU"
+    },
+    {
+        "restaurantName": "Steak 'n Shake",
+        "restaurantDescription": "Chain known for steakburgers & milkshakes offering a diner-like space with retro flair. Located on the 1st floor of GMU Johnson Center building.",
+        "operationHours": "MON.-FRI. 11AM-3PM",
+        "phoneNumber": "(703) 993-9065",
+        "imageName": "steak_shake.webp",
+        "fcWebsite": "https://www.steaknshake.com",
+        "restaurantAddress": "1st Floor, Johnson Center, GMU"
+    },
+    {
+        "restaurantName": "Flip Kitchen",
+        "restaurantDescription": "Offers a rotating menu of healthy wraps, salads, bowls, smoothies, and so much more. Located on the 1st floor of GMU Johnson Center building.",
+        "operationHours": "MON.-THURS. 11AM-7PM; FRI 11AM-4PM",
+        "phoneNumber": "(703) 993-9065",
+        "imageName": "flipKitchen.jpeg",
+        "fcWebsite": "https://www.flipkitchen.com",
+        "restaurantAddress": "1st Floor, Johnson Center, GMU"
+    },
+    {
+        "restaurantName": "Panera Bread",
+        "restaurantDescription": "Counter-serve bakery/cafe chain serving sandwiches, salads & more, known for its bread and free Wi-Fi. Located on the 1st floor of GMU Johnson Center building.",
+        "operationHours": "MON.-FRI. 7AM-9PM; SAT.-SUN. 8AM-8PM",
+        "phoneNumber": "(703) 251-0069",
+        "imageName": "panera.webp",
+        "fcWebsite": "https://www.panerabread.com",
+        "restaurantAddress": "1st Floor, Johnson Center, GMU"
+    },
+    {
+        "restaurantName": "Chick-fil-A",
+        "restaurantDescription": "Fast-food chain serving chicken sandwiches, nuggets, and salads. Located in SUB 1 on the Fairfax Campus.",
+        "operationHours": "MON.-THURS. 10:30AM-8PM; FRI 10:30AM-3PM",
+        "phoneNumber": "(703) 993-3300",
+        "imageName": "chickfila.jpg",
+        "fcWebsite": "https://www.chick-fil-a.com",
+        "restaurantAddress": "SUB 1, Fairfax Campus, GMU"
+    },
+    {
+        "restaurantName": "Panda Express",
+        "restaurantDescription": "Fast-food chain for Chinese standards, including some health-conscious options. Located in Merten Hall on the Fairfax Campus.",
+        "operationHours": "MON.-THURS. 10:30AM-9PM; FRI 10:30AM-8PM; SAT.-SUN. 11:30AM-5PM",
+        "phoneNumber": "(703) 993-3300",
+        "imageName": "panda_express.jpg",
+        "fcWebsite": "https://www.pandaexpress.com",
+        "restaurantAddress": "Merten Hall, Fairfax Campus, GMU"
+    },
+    {
+        "restaurantName": "Starbucks",
+        "restaurantDescription": "Seattle-based coffeehouse chain known for its signature roasts, light bites, and Wi-Fi availability. Multiple locations across the Fairfax Campus.",
+        "operationHours": "MON.-THURS. 7AM-8PM; FRI 7AM-5PM; SAT.-SUN. 10AM-7PM",
+        "phoneNumber": "(703) 993-3300",
+        "imageName": "starbucks.jpg",
+        "fcWebsite": "https://www.starbucks.com",
+        "restaurantAddress": "Multiple Locations, Fairfax Campus, GMU"
+    },
+    {
+        "restaurantName": "Dunkin'",
+        "restaurantDescription": "Long-running chain serving signature donuts, breakfast sandwiches, and a variety of coffee drinks. Located in Tidewater on the Fairfax Campus.",
+        "operationHours": "MON.-FRI. 7AM-4PM",
+        "phoneNumber": "(703) 993-3300",
+        "imageName": "dunkin.jpg",
+        "fcWebsite": "https://www.dunkindonuts.com",
+        "restaurantAddress": "Tidewater, Fairfax Campus, GMU"
+    },
+    {
+        "restaurantName": "Einstein Bros. Bagels",
+        "restaurantDescription": "Counter-service chain offering bagels, coffee, and light fare. Located in Merten Hall on the Fairfax Campus.",
+        "operationHours": "MON.-FRI. 7:30AM-5PM",
+        "phoneNumber": "(703) 993-3300",
+        "imageName": "einstein_bros.jpg",
+        "fcWebsite": "https://www.einsteinbros.com",
+        "restaurantAddress": "Merten Hall, Fairfax Campus, GMU"
+    },
+    {
+        "restaurantName": "Southside Dining Hall",
+        "restaurantDescription": "All-you-care-to-eat dining hall offering a variety of cuisines from global to local favorites. Located on the Fairfax Campus.",
+        "operationHours": "MON.-SUN. 7AM-9PM",
+        "phoneNumber": "(703) 993-3300",
+        "imageName": "southside_dining.jpg",
+        "fcWebsite": "https://www.gmu.edu/southside",
+        "restaurantAddress": "Fairfax Campus, GMU"
+    }
+],
+    "Status":"OK"}
