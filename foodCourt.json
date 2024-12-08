@@ -73,24 +73,6 @@
         "restaurantAddress": "Merten Hall, Fairfax Campus, GMU"
     },
     {
-        "restaurantName": "Starbucks",
-        "restaurantDescription": "Seattle-based coffeehouse chain known for its signature roasts, light bites, and Wi-Fi availability. Multiple locations across the Fairfax Campus.",
-        "operationHours": "MON.-THURS. 7AM-8PM; FRI 7AM-5PM; SAT.-SUN. 10AM-7PM",
-        "phoneNumber": "(703) 993-3300",
-        "imageName": "starbucks.jpg",
-        "fcWebsite": "https://www.starbucks.com",
-        "restaurantAddress": "Multiple Locations, Fairfax Campus, GMU"
-    },
-    {
-        "restaurantName": "Dunkin'",
-        "restaurantDescription": "Long-running chain serving signature donuts, breakfast sandwiches, and a variety of coffee drinks. Located in Tidewater on the Fairfax Campus.",
-        "operationHours": "MON.-FRI. 7AM-4PM",
-        "phoneNumber": "(703) 993-3300",
-        "imageName": "dunkin.jpg",
-        "fcWebsite": "https://www.dunkindonuts.com",
-        "restaurantAddress": "Tidewater, Fairfax Campus, GMU"
-    },
-    {
         "restaurantName": "Einstein Bros. Bagels",
         "restaurantDescription": "Counter-service chain offering bagels, coffee, and light fare. Located in Merten Hall on the Fairfax Campus.",
         "operationHours": "MON.-FRI. 7:30AM-5PM",
