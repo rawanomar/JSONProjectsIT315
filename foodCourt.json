@@ -7,7 +7,7 @@
         "phoneNumber": "(571) 459-2152",
         "imageName": "https://raw.githubusercontent.com/rawanomar/JSONProjectsIT315/refs/heads/master/chipotle.webp",
         "fcWebsite": "https://www.chipotle.com",
-        "restaurantAddress": "1st Floor, Johnson Center, GMU"
+        "restaurantAddress": "4477 Aquia Creek Ln, Fairfax, VA 22030"
     },
     {
         "restaurantName": "Blaze Pizza",
@@ -16,7 +16,7 @@
         "phoneNumber": "(703) 993-9068",
         "imageName": "https://raw.githubusercontent.com/rawanomar/JSONProjectsIT315/refs/heads/master/blazePizza.jpeg",
         "fcWebsite": "https://www.blazepizza.com",
-        "restaurantAddress": "1st Floor, Johnson Center, GMU"
+        "restaurantAddress": "4477 Aquia Creek Ln, Fairfax, VA 22030"
     },
     {
         "restaurantName": "The Halal Guys",
@@ -25,7 +25,7 @@
         "phoneNumber": "(703) 825-7370",
         "imageName": "https://raw.githubusercontent.com/rawanomar/JSONProjectsIT315/refs/heads/halalGuys.png",
         "fcWebsite": "https://www.thehalalguys.com",
-        "restaurantAddress": "1st Floor, Johnson Center, GMU"
+        "restaurantAddress": "4477 Aquia Creek Ln, Fairfax, VA 22030"
     },
     {
         "restaurantName": "Steak 'n Shake",
@@ -34,7 +34,7 @@
         "phoneNumber": "(703) 993-9065",
         "imageName": "https://raw.githubusercontent.com/rawanomar/JSONProjectsIT315/refs/heads/steak_shake.webp",
         "fcWebsite": "https://www.steaknshake.com",
-        "restaurantAddress": "1st Floor, Johnson Center, GMU"
+        "restaurantAddress": "4477 Aquia Creek Ln, Fairfax, VA 22030"
     },
     {
         "restaurantName": "Flip Kitchen",
@@ -43,7 +43,7 @@
         "phoneNumber": "(703) 993-9065",
         "imageName": "https://raw.githubusercontent.com/rawanomar/JSONProjectsIT315/refs/heads/flipKitchen.jpeg",
         "fcWebsite": "https://www.flipkitchen.com",
-        "restaurantAddress": "1st Floor, Johnson Center, GMU"
+        "restaurantAddress": "4477 Aquia Creek Ln, Fairfax, VA 22030"
     },
     {
         "restaurantName": "Panera Bread",
@@ -52,7 +52,7 @@
         "phoneNumber": "(703) 251-0069",
         "imageName": "https://raw.githubusercontent.com/rawanomar/JSONProjectsIT315/refs/heads/panera.webp",
         "fcWebsite": "https://www.panerabread.com",
-        "restaurantAddress": "1st Floor, Johnson Center, GMU"
+        "restaurantAddress": "4477 Aquia Creek Ln, Fairfax, VA 22030"
     },
     {
         "restaurantName": "Chick-fil-A",
@@ -61,7 +61,7 @@
         "phoneNumber": "(703) 993-3300",
         "imageName": "https://raw.githubusercontent.com/rawanomar/JSONProjectsIT315/refs/heads/chicfila.png",
         "fcWebsite": "https://www.chick-fil-a.com",
-        "restaurantAddress": "SUB 1, Fairfax Campus, GMU"
+        "restaurantAddress": "4400 University Dr Building 1, Fairfax, VA 22030"
     },
     {
         "restaurantName": "Panda Express",
@@ -70,7 +70,7 @@
         "phoneNumber": "(703) 993-3300",
         "imageName": "https://raw.githubusercontent.com/rawanomar/JSONProjectsIT315/refs/heads/pandaE.png",
         "fcWebsite": "https://www.pandaexpress.com",
-        "restaurantAddress": "Merten Hall, Fairfax Campus, GMU"
+        "restaurantAddress": "4441 George Mason Blvd University Hall, Fairfax, VA 22030"
     },
     {
         "restaurantName": "Einstein Bros. Bagels",
@@ -79,7 +79,7 @@
         "phoneNumber": "(703) 993-3300",
         "imageName": "https://raw.githubusercontent.com/rawanomar/JSONProjectsIT315/refs/heads/einsteinB.png",
         "fcWebsite": "https://www.einsteinbros.com",
-        "restaurantAddress": "Merten Hall, Fairfax Campus, GMU"
+        "restaurantAddress": "4441 George Mason Blvd, Fairfax, VA 22030"
     },
     {
         "restaurantName": "Southside Dining Hall",
@@ -88,7 +88,7 @@
         "phoneNumber": "(703) 993-3300",
         "imageName": "https://raw.githubusercontent.com/rawanomar/JSONProjectsIT315/refs/heads/southside.jpg",
         "fcWebsite": "https://www.gmu.edu/southside",
-        "restaurantAddress": "Fairfax Campus, GMU"
+        "restaurantAddress": "4353 Chesapeake River Ln, Fairfax, VA 22030"
     }
 ],
     "Status":"OK"}
