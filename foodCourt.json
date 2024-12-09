@@ -61,7 +61,7 @@
         "phoneNumber": "(703) 993-3300",
         "imageName": "https://raw.githubusercontent.com/rawanomar/JSONProjectsIT315/refs/heads/master/chicfila.png",
         "fcWebsite": "https://www.chick-fil-a.com",
-        "restaurantAddress": "4400 University Dr Building 1, Fairfax, VA 22030"
+        "restaurantAddress": "4400 University Dr, Fairfax, VA 22030"
     },
     {
         "restaurantName": "Panda Express",
@@ -70,7 +70,7 @@
         "phoneNumber": "(703) 993-3300",
         "imageName": "https://raw.githubusercontent.com/rawanomar/JSONProjectsIT315/refs/heads/master/pandaE.png",
         "fcWebsite": "https://www.pandaexpress.com",
-        "restaurantAddress": "4441 George Mason Blvd University Hall, Fairfax, VA 22030"
+        "restaurantAddress": "4441 George Mason Blvd, Fairfax, VA 22030"
     },
     {
         "restaurantName": "Einstein Bros. Bagels",
