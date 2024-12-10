@@ -6,7 +6,7 @@
         "operationHours": "MON.-SUN. 10AM-10PM",
         "phoneNumber": "(571) 459-2152",
         "imageName": "https://raw.githubusercontent.com/rawanomar/JSONProjectsIT315/refs/heads/master/chipotle.webp",
-        "fcWebsite": "https://www.chipotle.com",
+        "fcWebsite": "https://www.chipotle.com/#menu",
         "restaurantAddress": "4477 Aquia Creek Ln, Fairfax, VA 22030"
     },
     {
@@ -15,7 +15,7 @@
         "operationHours": "MON.-THURS. 11AM-7PM; FRI 11AM-5PM",
         "phoneNumber": "(703) 993-9068",
         "imageName": "https://raw.githubusercontent.com/rawanomar/JSONProjectsIT315/refs/heads/master/blazePizza.jpeg",
-        "fcWebsite": "https://www.blazepizza.com",
+        "fcWebsite": "https://www.blazepizza.com/location/blaze-pizza-mason/menu",
         "restaurantAddress": "4477 Aquia Creek Ln, Fairfax, VA 22030"
     },
     {
@@ -24,7 +24,7 @@
         "operationHours": "MON.-FRI. 11AM-4PM",
         "phoneNumber": "(703) 825-7370",
         "imageName": "https://raw.githubusercontent.com/rawanomar/JSONProjectsIT315/refs/heads/master/halalGuys.png",
-        "fcWebsite": "https://www.thehalalguys.com",
+        "fcWebsite": "https://thehalalguys.com/menu/",
         "restaurantAddress": "4477 Aquia Creek Ln, Fairfax, VA 22030"
     },
     {
@@ -33,7 +33,7 @@
         "operationHours": "MON.-FRI. 11AM-3PM",
         "phoneNumber": "(703) 993-9065",
         "imageName": "https://raw.githubusercontent.com/rawanomar/JSONProjectsIT315/refs/heads/master/steak_shake.webp",
-        "fcWebsite": "https://www.steaknshake.com",
+        "fcWebsite": "https://www.steaknshake.com/",
         "restaurantAddress": "4477 Aquia Creek Ln, Fairfax, VA 22030"
     },
     {
@@ -42,7 +42,7 @@
         "operationHours": "MON.-THURS. 11AM-7PM; FRI 11AM-4PM",
         "phoneNumber": "(703) 993-9065",
         "imageName": "https://raw.githubusercontent.com/rawanomar/JSONProjectsIT315/refs/heads/master/flipKitchen.jpeg",
-        "fcWebsite": "https://www.flipkitchen.com",
+        "fcWebsite": "https://masondining.sodexomyway.com/en-us/locations/flip-kitchen",
         "restaurantAddress": "4477 Aquia Creek Ln, Fairfax, VA 22030"
     },
     {
@@ -51,7 +51,7 @@
         "operationHours": "MON.-FRI. 7AM-9PM; SAT.-SUN. 8AM-8PM",
         "phoneNumber": "(703) 251-0069",
         "imageName": "https://raw.githubusercontent.com/rawanomar/JSONProjectsIT315/refs/heads/master/panera.webp",
-        "fcWebsite": "https://www.panerabread.com",
+        "fcWebsite": "https://www.panerabread.com/en-us/menu.html",
         "restaurantAddress": "4477 Aquia Creek Ln, Fairfax, VA 22030"
     },
     {
@@ -60,7 +60,7 @@
         "operationHours": "MON.-THURS. 10:30AM-8PM; FRI 10:30AM-3PM",
         "phoneNumber": "(703) 993-3300",
         "imageName": "https://raw.githubusercontent.com/rawanomar/JSONProjectsIT315/refs/heads/master/chicfila.png",
-        "fcWebsite": "https://www.chick-fil-a.com",
+        "fcWebsite": "https://www.chick-fil-a.com/menu",
         "restaurantAddress": "4400 University Dr, Fairfax, VA 22030"
     },
     {
@@ -69,7 +69,7 @@
         "operationHours": "MON.-THURS. 10:30AM-9PM; FRI 10:30AM-8PM; SAT.-SUN. 11:30AM-5PM",
         "phoneNumber": "(703) 993-3300",
         "imageName": "https://raw.githubusercontent.com/rawanomar/JSONProjectsIT315/refs/heads/master/pandaE.png",
-        "fcWebsite": "https://www.pandaexpress.com",
+        "fcWebsite": "https://www.pandaexpress.com/",
         "restaurantAddress": "4441 George Mason Blvd, Fairfax, VA 22030"
     },
     {
@@ -78,7 +78,7 @@
         "operationHours": "MON.-FRI. 7:30AM-5PM",
         "phoneNumber": "(703) 993-3300",
         "imageName": "https://raw.githubusercontent.com/rawanomar/JSONProjectsIT315/refs/heads/master/einsteinB.png",
-        "fcWebsite": "https://www.einsteinbros.com",
+        "fcWebsite": "https://www.einsteinbros.com/menu/",
         "restaurantAddress": "4441 George Mason Blvd, Fairfax, VA 22030"
     },
     {
@@ -87,7 +87,7 @@
         "operationHours": "MON.-SUN. 7AM-9PM",
         "phoneNumber": "(703) 993-3300",
         "imageName": "https://raw.githubusercontent.com/rawanomar/JSONProjectsIT315/refs/heads/master/southside.jpg",
-        "fcWebsite": "https://www.gmu.edu/southside",
+        "fcWebsite": "https://masondining.sodexomyway.com/en-us/locations/southside-dining-hall",
         "restaurantAddress": "4353 Chesapeake River Ln, Fairfax, VA 22030"
     }
 ],
